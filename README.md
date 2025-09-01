@@ -76,14 +76,22 @@ This project uses **SQL** and **Power BI** to analyze Bharat Herald’s operatio
 You can view the interactive Power BI dashboard here:  
 👉 [Bharat Herald Power BI Dashboard](https://app.powerbi.com/your-dashboard-link-here)  
 
-*(Note: Replace this placeholder with your actual published Power BI Service link once uploaded.)*
 
 ---
 
-## 📑 Documentation Download
+## 📑 Documentation Download  
 You can also download the project documentation with links here:  
-📂 [Bharat_Herald_Project_Links.docx]([./reports/Bharat_Herald_Project_Links.docx](https://github.com/Nikhillonkar19-code/Bharat-Herald-Media-Publishing-Analysis-2019-2024/blob/main/Business%20Request%20bharat%20herald.docx))  
+📂 [Bharat_Herald_Project_Links.docx](https://github.com/Nikhillonkar19-code/Bharat-Herald-Media-Publishing-Analysis-2019-2024/blob/main/Business%20Request%20bharat%20herald.docx)  
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure  
+```plaintext
+├── datasets/                 # Raw and processed datasets (fact & dimension tables)  
+├── sql_queries/              # SQL scripts for all 6 business requests  
+├── dashboard/                # Power BI dashboard (.pbix)  
+├── docs/                     # Documentation & supporting reports  
+│   └── Bharat_Herald_Project_Links.docx  
+├── screenshots/              # Key visuals & result screenshots  
+└── README.md                 # Project documentation (this file)  
+
