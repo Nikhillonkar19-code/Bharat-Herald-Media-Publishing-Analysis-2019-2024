@@ -82,7 +82,7 @@ You can view the interactive Power BI dashboard here:
 
 ## 📑 Documentation Download
 You can also download the project documentation with links here:  
-📂 [Bharat_Herald_Project_Links.docx](./reports/Bharat_Herald_Project_Links.docx)  
+📂 [Bharat_Herald_Project_Links.docx]([./reports/Bharat_Herald_Project_Links.docx](https://github.com/Nikhillonkar19-code/Bharat-Herald-Media-Publishing-Analysis-2019-2024/blob/main/Business%20Request%20bharat%20herald.docx))  
 
 ---
 
